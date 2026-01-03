@@ -1,2 +1,2 @@
-# myRCP
-my Radio Co-Processor (RCP)
+# myThreadRCP
+my Thread Radio Co-Processor (RCP)
